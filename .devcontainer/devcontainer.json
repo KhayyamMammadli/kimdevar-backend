@@ -1,0 +1,1 @@
+{"name":"KimdəVar Python API","image":"mcr.microsoft.com/devcontainers/python:1-3.12-bookworm","forwardPorts":[8000],"postCreateCommand":"pip install -r requirements.txt","portsAttributes":{"8000":{"label":"KimdəVar API","onAutoForward":"notify"}}}
